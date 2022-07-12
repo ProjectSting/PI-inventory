@@ -1,4 +1,4 @@
-# pi-inventory
+# PI-inventory
 Redesign of qb-inventory
 
 # Preview
