@@ -14,3 +14,7 @@ And Also Most Important Rename Pi-inventory to qb-inventory else some Scripts Th
 
 For Support Join Our Discord :-
 https://discord.gg/n4XH2pACGM
+
+# Credits
+
+Scorpion.#5940,  Gabbar Singh#5258 And Full Project India
